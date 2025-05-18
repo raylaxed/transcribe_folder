@@ -11,7 +11,7 @@ your-project/
 ├── input_m4a/           # Raw .m4a files (input)
 ├── output_cut/          # Cleaned audio files (.mp3)
 ├── output_text/         # Transcription text files
-├── process_audio.py     # Main processing script
+├── transcribe_folder.py     # Main processing script
 ├── requirements.txt     # Dependency list
 └── README.md            # Project documentation
 ```
