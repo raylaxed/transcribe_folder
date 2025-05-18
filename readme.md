@@ -6,6 +6,7 @@ This Python project automates the transcription of `.m4a` audio files using Open
 
 ## 📁 Folder Structure
 
+```
 your-project/
 ├── input_m4a/           # Raw .m4a files (input)
 ├── output_cut/          # Cleaned audio files (.mp3)
@@ -13,6 +14,8 @@ your-project/
 ├── process_audio.py     # Main processing script
 ├── requirements.txt     # Dependency list
 └── README.md            # Project documentation
+```
+
 🚀 Quick Start
 1. Clone the repository
 bash
